@@ -1,0 +1,102 @@
+Try to build the truest with the team members and each other
+Be open and make an open environment/culture
+Make an example before requesting/ask  something
+
+
+Architecture board
+
+Resulting context over solution
+Drawbacks   b. Benefits c. Issues to resolve
+
+     2.   Resolving problems
+Identifying the problems
+Find reasons for problems
+Find how to resolve problems
+Find an approach to resolve this
+
+3. Change the focus & face the fear
+
+
+
+4. Team conflicts
+
+https://www.indeed.com/career-advice/career-development/types-of-team-conflict
+
+
+How to resolve team conflicts
+ 
+Stay calm
+
+Acknowledge the conflict and find a resolution
+
+ 
+Communicate (and listen) / . Clarify Positions
+
+List facts and assumptions based on each position
+
+Break into smaller groups and separate existing alliances
+
+Reconvene the groups
+
+Celebrate the resolution as a team
+ 
+
+Involve leadership or HR
+ 
+--------------------------------------------------------
+Systematic approaches
+
+Agile control framework
+
+
+--------------------------------------------------------
+
+The Four Values of The Agile Manifesto
+
+1. Individuals and Interactions Over Processes and Tools
+
+because it is the people who respond to business needs and drive the development process. 
+Key word is drive : It doesn’t mean you should not use/help tools and processes
+
+
+2. Working Software Over Comprehensive Documentation
+
+Technical specifications, technical requirements, technical prospectus, interface design documents, test plans, documentation plans, and approvals required for each. 
+
+3. Customer Collaboration Over Contract Negotiation
+
+customer who is engaged and collaborates throughout the development process, making.
+
+
+4. Responding to Change Over Following a Plan
+
+Traditional software development regarded change as an expense, 
+
+priorities can be shifted from iteration to iteration and new features can be added into the next iteration.
+
+Having said that, the sprint is planned and fixed.
+
+
+The Twelve Agile Manifesto Principles
+
+https://www.bitrix24.com/articles/agile-development-methodology-basic-rules-and-features.php
+
+The twelve principles of agile development include:
+Customer satisfaction through early and continuous software delivery – Customers are happier when they receive working software at regular intervals, rather than waiting extended periods of time between releases.
+Accommodate changing requirements throughout the development process – The ability to avoid delays when a requirement or feature request changes.
+Frequent delivery of working software – Scrum accommodates this principle since the team operates in software sprints or iterations that ensure regular delivery of working software.
+Collaboration between the business stakeholders and developers throughout the project – Better decisions are made when the business and technical team are aligned.
+Support, trust, and motivate the people involved – Motivated teams are more likely to deliver their best work than unhappy teams.
+Enable face-to-face interactions – Communication is more successful when development teams are co-located.
+Working software is the primary measure of progress – Delivering functional software to the customer is the ultimate factor that measures progress.
+Agile processes to support a consistent development pace – Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
+Attention to technical detail and design enhances agility – The right skills and good design ensures the team can maintain the pace, constantly improve the product, and sustain change.
+Simplicity – Develop just enough to get the job done for right now.
+Self-organizing teams encourage great architectures, requirements, and designs – Skilled and motivated team members who have decision-making power, take ownership, communicate regularly with other team members, and share ideas that deliver quality products.
+Regular reflections on how to become more effective – Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently.
+
+Agile benefits and adavantages
+
+https://www.cio.com/article/3156998/agile-project-management-a-beginners-guide.html
+
+
